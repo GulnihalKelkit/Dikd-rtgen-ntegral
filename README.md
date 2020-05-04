@@ -1,1 +1,1 @@
-# Dikd-rtgen-ntegral
+# **Dikdörtgen yöntemi ile integral alanı bulma**
